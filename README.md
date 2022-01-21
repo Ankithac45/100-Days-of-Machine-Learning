@@ -13,4 +13,4 @@
 ## DAY 2 [17/01/2022] Types of Machine Learning
 * Got to know different types on the basis of amount of supervision needed for ML algorithm to get trained.
 ## DAY 3 [18/01/2022] Online Vs Offline ML
-* 
+* Difference between oflfine and online machine learning
