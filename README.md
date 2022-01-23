@@ -13,4 +13,19 @@
 ## DAY 2 [17/01/2022] Types of Machine Learning
 * Got to know different types on the basis of amount of supervision needed for ML algorithm to get trained.
 ## DAY 3 [18/01/2022] Online Vs Offline ML
-* Difference between oflfine and online machine learning
+* Difference between oflfine and online machine learning.
+* What is Offline Machine Learning?
+* Advantages and disadvantages of Offline Learning.
+## DAY 4 [19/01/2022] Online ML
+* What is Online Machine Learning?
+* Advantages and disadvantages of Online Learning.
+## DAY 5 [20/01/2022] Instance-Based and Model-Based ML
+* What do they mean?
+* How are they different from each other?
+## DAY 6 [21/01/2022] Challenges and Problems in ML
+* Main Challenges that machine learning faces in real world scenerios
+## DAY 7 [22/01/2022] Applications of ML
+* Real life wde range of applications of machine learning
+## DAY 8 [23/01/2022] Machine Learning Development Cycle
+* How does a machine learning system work?
+* What's the main purpose of this cycle?
