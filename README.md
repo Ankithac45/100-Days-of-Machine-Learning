@@ -29,3 +29,7 @@
 ## DAY 8 [23/01/2022] Machine Learning Development Cycle
 * How does a machine learning system work?
 * What's the main purpose of this cycle?
+## DAY 9 [24/01/2022] Data Engineer V Data Analyst V Data Scientist V ML Engineer
+* Differnce between datascienece job rules
+## DAY 10 [25/01/2022] Tensor in Machine Learnong
+* What are Tensors?
