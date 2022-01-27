@@ -33,3 +33,7 @@
 * Differnce between datascienece job rules
 ## DAY 10 [25/01/2022] Tensor in Machine Learnong
 * What are Tensors?
+## DAY 11 [26/01/2022] Installation
+* Installing Anaconda For Data Science | Jupyter Notebook for Machine Learning | Google Colab for ML
+## DAY 12 [27/01/2022] A Basic Project
+* End to End Toy project
