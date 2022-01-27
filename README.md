@@ -36,5 +36,6 @@
 * What are Tensors?
 ## DAY 11 [26/01/2022] Installation
 * Installing Anaconda For Data Science | Jupyter Notebook for Machine Learning | Google Colab for ML
+* Virtual Environment Creation
 ## DAY 12 [27/01/2022] A Basic Project
 * End to End Toy project
