@@ -18,6 +18,7 @@
 * Advantages and disadvantages of Offline Learning.
 ## DAY 4 [19/01/2022] Online ML
 * What is Online Machine Learning?
+* When to use and how to implement it?
 * Advantages and disadvantages of Online Learning.
 ## DAY 5 [20/01/2022] Instance-Based and Model-Based ML
 * What do they mean?
