@@ -39,3 +39,6 @@
 * Virtual Environment Creation
 ## DAY 12 [27/01/2022] A Basic Project
 * End to End Toy project
+## DAY 13 [28/01/2022] Planning Data Science Project
+* Framing a machine learning problem
+* How to plan a data science project?
