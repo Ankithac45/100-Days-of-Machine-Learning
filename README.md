@@ -42,3 +42,6 @@
 ## DAY 13 [28/01/2022] Planning Data Science Project
 * Framing a machine learning problem
 * How to plan a data science project?
+## DAY 14 [29/01/2022] Working with CSV file
+* CSV file format
+* What is it referred to as?
