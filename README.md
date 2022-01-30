@@ -45,3 +45,7 @@
 ## DAY 14 [29/01/2022] Working with CSV file
 * CSV file format
 * What is it referred to as?
+## DAY 15 [30/01/2022] Working with JSON/SQL
+* What are they?
+* How are they differentiable?
+
