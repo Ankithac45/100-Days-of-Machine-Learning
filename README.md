@@ -48,4 +48,7 @@
 ## DAY 15 [30/01/2022] Working with JSON/SQL
 * What are they?
 * How are they differentiable?
+## DAY 16 [31/01/2022] Fetching data from API
+* How to use API, extract data and save it in the form of a dataframe.
+
 
