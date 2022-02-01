@@ -50,5 +50,8 @@
 * How are they differentiable?
 ## DAY 16 [31/01/2022] Fetching data from API
 * How to use API, extract data and save it in the form of a dataframe.
+## DAY 17 [01/02/2022]Fetching data using Web Scraping
+* How do we work with it?
+* What does it mean?
 
 
