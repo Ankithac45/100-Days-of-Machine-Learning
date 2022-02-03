@@ -52,8 +52,11 @@
 * How to use API, extract data and save it in the form of a dataframe.
 ## DAY 17 [01/02/2022]Fetching data using Web Scraping
 * How do we work with it?
-* What does it mean
+* What does it mean ?
 ## DAY 18 [02/02/2022] Undersyanding the data
 * How the data is modified and used?
+## DAY 19 [03/02/2022] EDA using Univariate Ananlysis
+* What is Exploratory Data Analysis?
+* Why is it required?
 
 
