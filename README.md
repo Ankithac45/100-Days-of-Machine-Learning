@@ -58,5 +58,6 @@
 ## DAY 19 [03/02/2022] EDA using Univariate Ananlysis
 * What is Exploratory Data Analysis?
 * Why is it required?
-
+## DAY 20 [04/02/2022] EDA using Bivariate and Multivariate Analysis
+* Summary of them
 
