@@ -62,4 +62,5 @@
 * Summary of them
 ## DAY 21 [06/02/2022] Pandas Profiling
 * Libraries used in ml
+## DAY 22 [07/02/2022]
 
