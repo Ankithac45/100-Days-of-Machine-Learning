@@ -65,4 +65,6 @@
 ## DAY 22 [07/02/2022] Feature Engineering
 * What is feature engineering?
 * Applications of it.
-
+## DAY 23 [08/02/2022] Feature Scaling
+* Types of it
+* What is Normalizaion?
