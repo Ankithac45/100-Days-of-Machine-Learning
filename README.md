@@ -66,5 +66,8 @@
 * What is feature engineering?
 * Applications of it.
 ## DAY 23 [08/02/2022] Feature Scaling
-* Types of it
-* What is Normalizaion?
+* Types of it.
+* What is Standardization?
+## DAY 24 [09/02/2022] Normalizaion
+* What is Normalization?
+* MinMaxScaling | MaxAbsScaling | RobustScaling
