@@ -71,5 +71,5 @@
 ## DAY 24 [09/02/2022] Normalizaion
 * What is Normalization?
 * MinMaxScaling | MaxAbsScaling | RobustScaling
-## DAY 25 [100/02/2022] Encoding Categorical Data
+## DAY 25 [10/02/2022] Encoding Categorical Data
 * Ordinal Encoding | Label Encoding
