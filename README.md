@@ -73,3 +73,5 @@
 * MinMaxScaling | MaxAbsScaling | RobustScaling
 ## DAY 25 [10/02/2022] Encoding Categorical Data
 * Ordinal Encoding | Label Encoding
+## DAY 26 [11/02/2022] One Hot Encoding
+* Handling Categorical Data
