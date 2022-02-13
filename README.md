@@ -75,3 +75,5 @@
 * Ordinal Encoding | Label Encoding
 ## DAY 26 [11/02/2022] One Hot Encoding
 * Handling Categorical Data
+## DAY 27 [13/02/2022] Column Transformer in Machine Learning
+* How to use ColumnTransformer in Sklearn
