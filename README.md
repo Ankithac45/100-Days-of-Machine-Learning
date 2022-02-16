@@ -77,3 +77,5 @@
 * Handling Categorical Data
 ## DAY 27 [13/02/2022] Column Transformer in Machine Learning
 * How to use ColumnTransformer in Sklearn
+## DAY 28 [16/02/2022] Machine Learning Pipelines A-Z
+* When and how to use it?
