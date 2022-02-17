@@ -79,3 +79,6 @@
 * How to use ColumnTransformer in Sklearn
 ## DAY 28 [16/02/2022] Machine Learning Pipelines A-Z
 * When and how to use it?
+## DAY 29 [17/02/2022] Function Transformer
+* Log Transform | Reciprocal Transform | Square Root Transform
+
