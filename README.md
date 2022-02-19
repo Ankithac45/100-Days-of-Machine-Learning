@@ -81,4 +81,6 @@
 * When and how to use it?
 ## DAY 29 [17/02/2022] Function Transformer
 * Log Transform | Reciprocal Transform | Square Root Transform
+## DAY 30 [19/02/2022] Power Transformer 
+* Box - Cox Transform | Yeo - Johnson Transform
 
