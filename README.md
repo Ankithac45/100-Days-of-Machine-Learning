@@ -83,4 +83,5 @@
 * Log Transform | Reciprocal Transform | Square Root Transform
 ## DAY 30 [19/02/2022] Power Transformer 
 * Box - Cox Transform | Yeo - Johnson Transform
+## DAY 31 [26/02/2022] 
 
