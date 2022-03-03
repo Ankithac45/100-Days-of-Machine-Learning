@@ -85,5 +85,7 @@
 * Box - Cox Transform | Yeo - Johnson Transform
 ## DAY 31 [26/02/2022] Binning and Binarization
 * Discretization | Quantile Binning | KMeans Binning
+## DAY 32 [03/03/2022] Feature Engineering
+* Handling Mixed Variables
 
 
