@@ -87,5 +87,7 @@
 * Discretization | Quantile Binning | KMeans Binning
 ## DAY 32 [03/03/2022] Feature Engineering
 * Handling Mixed Variables
+## DAY 33 [18/03/2022] Feature Engineering
+* Handling Date and Time
 
 
