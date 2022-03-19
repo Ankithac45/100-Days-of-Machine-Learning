@@ -88,6 +88,7 @@
 ## DAY 32 [03/03/2022] Feature Engineering
 * Handling Mixed Variables
 ## DAY 33 [18/03/2022] Feature Engineering
-* Handling Date and Time
-
+* Handling Date and Time Variables
+## DAY 34 [19/03/2022] Handling missing Data
+* Complete case analysis of handling the missing data
 
