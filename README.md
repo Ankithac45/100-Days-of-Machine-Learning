@@ -91,7 +91,9 @@
 * Handling Date and Time Variables
 ## DAY 34 [19/03/2022] Handling missing Data
 * Complete case analysis of handling the missing data
-## DAY 34 [20/03/2022] Handling Missing Data
+## DAY 35 [20/03/2022] Handling Missing Data
 * Numerical Data
 * Simple Imputer
+## DAY 36 [21/03/2022] Handling Missing Categorical Data
+* Simple Imputer | Most Frequent Imputation | Missing Category Imp
 
