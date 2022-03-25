@@ -96,4 +96,5 @@
 * Simple Imputer
 ## DAY 36 [21/03/2022] Handling Missing Categorical Data
 * Simple Imputer | Most Frequent Imputation | Missing Category Imp
-
+## DAY 37 [25/03/2022] Missing Indicator
+* Random Sample Imputation
