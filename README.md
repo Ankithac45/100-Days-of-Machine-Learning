@@ -98,3 +98,5 @@
 * Simple Imputer | Most Frequent Imputation | Missing Category Imp
 ## DAY 37 [25/03/2022] Missing Indicator
 * Random Sample Imputation
+## DAY 38 [26/03/2022] KNN Imputer
+* Multivariate Imputation
