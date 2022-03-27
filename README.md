@@ -100,3 +100,5 @@
 * Random Sample Imputation
 ## DAY 38 [26/03/2022] KNN Imputer
 * Multivariate Imputation
+## DAY 39 [27/03/2022] Iterative Imputer
+* Multivariate Imputation by Chained Equations for Missing Value
