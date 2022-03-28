@@ -102,3 +102,6 @@
 * Multivariate Imputation
 ## DAY 39 [27/03/2022] Iterative Imputer
 * Multivariate Imputation by Chained Equations for Missing Value
+## DAY 40 [28/03/2022] Outliers
+* What are outliers?
+* How to handle them?
