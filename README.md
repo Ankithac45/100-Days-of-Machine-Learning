@@ -105,3 +105,6 @@
 ## DAY 40 [28/03/2022] Outliers
 * What are outliers?
 * How to handle them?
+## DAY 41 [29/03/2022] Handling Outliers
+* Outlier Detection
+* Removal using Z-score method
