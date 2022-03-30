@@ -108,4 +108,5 @@
 ## DAY 42 [29/03/2022] Handling Outliers
 * Outlier Detection
 * Removal using Z-score method
-## DAy
+## DAY 43 [30/02/2022] Handling Outliers
+* Outlier Detection and Removal using the IQR Method
