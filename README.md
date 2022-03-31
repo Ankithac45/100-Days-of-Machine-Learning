@@ -110,3 +110,6 @@
 * Removal using Z-score method
 ## DAY 43 [30/02/2022] Handling Outliers
 * Outlier Detection and Removal using the IQR Method
+## DAY 44 [31/03/2022] Handling Outliers
+* Outlier Detection using the Percentile Method
+* Winsorization Technique
