@@ -113,3 +113,5 @@
 ## DAY 44 [31/03/2022] Handling Outliers
 * Outlier Detection using the Percentile Method
 * Winsorization Technique
+## DAY 45 [01/03/2022] Feature Construction 
+* Feature Splitting
