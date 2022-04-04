@@ -117,5 +117,7 @@
 * Feature Splitting
 ## DAY 46 [02/04/2022] Curse of Dimensionality
 * How does it work?
-## DAY 47 [03/04/2022] Principle Component Analysis (PCA)
+## DAY 47 [03/04/2022] Principle Component Analysis (PCA) | Part 1
 * Geometric Intuition
+## DAY 48 [04/03/2022] Principle Component Analysis (PCA) | Part 2
+* Problem Formulation and Step by Step Solution
