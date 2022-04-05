@@ -119,5 +119,7 @@
 * How does it work?
 ## DAY 47 [03/04/2022] Principle Component Analysis (PCA) | Part 1
 * Geometric Intuition
-## DAY 48 [04/03/2022] Principle Component Analysis (PCA) | Part 2
+## DAY 48 [04/04/2022] Principle Component Analysis (PCA) | Part 2
 * Problem Formulation and Step by Step Solution
+## DAY 49 [05/04/2022] Principal Component Analysis (PCA) | Part 3
+* Code, example and Simulation
