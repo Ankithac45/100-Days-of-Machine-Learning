@@ -123,3 +123,5 @@
 * Problem Formulation and Step by Step Solution
 ## DAY 49 [05/04/2022] Principal Component Analysis (PCA) | Part 3
 * Code, example and Simulation
+## DAY 50 [06/04/2022] Simple Linear Regression
+* Code + Intuition
