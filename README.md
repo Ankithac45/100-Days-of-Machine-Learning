@@ -125,3 +125,5 @@
 * Code, example and Simulation
 ## DAY 50 [06/04/2022] Simple Linear Regression
 * Code + Intuition
+## DAY 51 [08/04/2022] Simple Linear Regression
+* Mathematical Formulation | Coding from Scratch
