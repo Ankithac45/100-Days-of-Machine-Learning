@@ -127,3 +127,6 @@
 * Code + Intuition
 ## DAY 51 [08/04/2022] Simple Linear Regression
 * Mathematical Formulation | Coding from Scratch
+## DAY 52 [09/04/2022] Regression Metrics
+* MSE, MAE & RMSE
+* R2 Score & Adjusted R2 Score
