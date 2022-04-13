@@ -130,3 +130,5 @@
 ## DAY 52 [09/04/2022] Regression Metrics
 * MSE, MAE & RMSE
 * R2 Score & Adjusted R2 Score
+## DAY 53 [13/04/2022] Multiple Linear Regression 
+* Geometric Intuition and Code 
