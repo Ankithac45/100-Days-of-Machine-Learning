@@ -136,3 +136,5 @@
 * Mathematical Formulation From Scratch
 ## DAY 55 [15/04/2022] Multiple Linear Regression | Part 3
 * Code From Scratch
+## DAY 56 [17/04/2022] Gradient Descent
+* Gradient Descent Animation
