@@ -138,3 +138,5 @@
 * Code From Scratch
 ## DAY 56 [17/04/2022] Gradient Descent
 * Gradient Descent Animations
+## DAY 57 [19/04/2022] Gradient Descent
+* Gradient Descent Animations
