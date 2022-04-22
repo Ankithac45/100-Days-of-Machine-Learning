@@ -142,3 +142,5 @@
 * Gradient Descent Animations
 ## DAY 58 [21/04/2022] Gradients 
 * gradients
+## DAY 59 [22/04/2022] Gradient
+*
