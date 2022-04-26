@@ -144,4 +144,4 @@
 * gradients
 ## DAY 59 [22/04/2022] Gradient
 * Gradient
-## DAY 60 [25/04/2022] 
+## DAY 60 [25/04/2022] Gradient 
