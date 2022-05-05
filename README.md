@@ -138,15 +138,24 @@
 * Code From Scratch
 ## DAY 56 [17/04/2022] Gradient Descent
 * Gradient Descent Animations
-## DAY 57 [19/04/2022] Gradient Descent
+## DAY 57 [19/04/2022] Batch Gradient Descent
 * Gradient Descent Animations
-## DAY 58 [21/04/2022] Gradients 
+## DAY 58 [21/04/2022] Stochastic Gradient Descent 
 * gradients
-## DAY 59 [22/04/2022] Gradient
+## DAY 59 [22/04/2022] Mini-Batch Gradient Descent
 * Gradient
-## DAY 60 [25/04/2022] Gradient 
-## DAY 61 [29/04/2022] Gradient 
-## DAY 62 [30/04/2022] 
-## DAY 63 [01/05/2022]
-## DAY 64 [02/05/2022]
-## DAY 65 [03/05/2022]
+## DAY 60 [25/04/2022] Polynomial Regression 
+## DAY 61 [29/04/2022] Bias Variance Trade-off
+* Overfitting and Underfitting in Machine Learning
+## DAY 62 [30/04/2022] Ridge Regression Part 1
+* Geometric Intuition and Code | Regularized Linear Models
+## DAY 63 [01/05/2022] Ridge Regression Part 2
+* Mathematical Formulation & Code from scratch | Regularized Linear Models
+## DAY 64 [02/05/2022] Ridge Regression Part 3
+* Gradient Descent | Regularized Linear Models
+## DAY 65 [03/05/2022] Lasso Regression
+* Intuition and Code Sample | Regularized Linear Models
+## DAY 66 [04/05/2022] Lasso Regression
+* Why Lasso Regression creates sparsity?
+## DAY 67 [05/05/2022] ElasticNet Regression 
+* Intuition and Code Example | Regularized Linear Models
