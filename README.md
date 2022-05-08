@@ -159,5 +159,9 @@
 * Why Lasso Regression creates sparsity?
 ## DAY 67 [05/05/2022] ElasticNet Regression 
 * Intuition and Code Example | Regularized Linear Models
-## DAY 68 [06/05/2022]
-## DAY 69 [07/05/2022]
+## DAY 68 [06/05/2022] Logistic Regression Part 1 
+*  Perceptron Trick
+## DAY 69 [07/05/2022] Logistic Regression Part 2
+*  Perceptron Trick Code
+## DAY 70 [08/05/2022] Logistic Regression Part 3
+* Sigmoid Function
