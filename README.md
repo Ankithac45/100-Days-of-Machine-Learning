@@ -166,3 +166,4 @@
 ## DAY 70 [08/05/2022] Logistic Regression Part 3
 * Sigmoid Function
 ## DAY 71 [11/05/2022]
+## DAY 72 [13/05/2022]
