@@ -1,4 +1,4 @@
-# 100-Days-of-Machine-Learning
+I# 100-Days-of-Machine-Learning
 # Description
 ### A 100 Day ML Challenge to learn and implement ML/DL concepts ranging from the very basics of Machine Learning to advanced Deep Learning.
 ## DAY 1 [15/01/2022] Introduction
@@ -187,3 +187,4 @@
 ## Day 90 [29/07/2022]
 ## DAY 91 [30/07/2022]
 ## DAY 92 [01/08/2022]
+## DAY 93 [02/08/2022]
